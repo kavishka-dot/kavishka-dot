@@ -59,18 +59,6 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-dot&layout=compact&theme=radical)
 
-## 🔥 GitHub Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavishka-dot&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kavishka-dot&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishka-dot&theme=radical)
-
 ## 📊 Experience
 
 **Business Analyst: LSEG**  
