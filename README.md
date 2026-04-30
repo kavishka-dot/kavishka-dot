@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi there, I'm Kavishka 👋
 
-<!--
-**kavishka-dot/kavishka-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build machine learning systems for wireless signals, GNSS security, and scientific simulation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, working at the intersection of machine learning, signal processing, and RF systems.
+
+My core focus is on **GNSS spoofing detection, self-supervised learning, and signal-domain representation learning**, where I design systems that go from raw I/Q signals all the way to intelligent decision-making.
+
+I work heavily on **research-driven engineering**, building full-stack pipelines from theory → simulation → datasets → models.
+
+## 🔬 Research
+
+- **NEMESIS: Neural Embeddings for GNSS Spoofing Detection**  
+  Accepted at IEEE ACES 2026  
+
+- **NEMESIS-Shield**  
+  Robust representation learning for GNSS integrity (IEEE VTC under review)
+
+- **NEMESIS-Nav**  
+  Detector-informed Kalman fusion for spoofing resilience (IEEE TVT under review)
+
+- **CrossJEPA**  
+  Cross-modal representation learning for 3D vision (CVPR under review)
+
+- **SpectraNet**  
+  FFT-assisted deepfake detection (arXiv)
+
+📄 Full details in CV → :contentReference[oaicite:0]{index=0}
+
+## 🧠 What I Work On
+
+Machine Learning  
+Signal Processing  
+GNSS / RF Systems  
+Self-Supervised Learning (JEPA)  
+Computer Vision  
+Optimization & Scientific Computing  
+
+## 🛠️ Tech Stack
+
+Python | C++ | MATLAB  
+PyTorch | TensorFlow | NumPy | SciPy  
+GNSS | SDR | Wavelets | FFT | IQ Signals  
+LaTeX | Git | Linux | Colab  
+
+## 💼 Featured Projects
+
+### NEMESIS GNSS Simulator
+A full-scale GNSS signal simulator built in pure Python, capable of generating realistic satellite signals and structured spoofing scenarios for research.
+
+### GNSS Simulator (From Scratch)
+End-to-end implementation of a GNSS receiver pipeline including signal generation, tracking (DLL/PLL), pseudorange extraction, and positioning.
+
+### ML-Based GNSS Spoofing Detection
+Semantic embedding-based detection system trained directly on RF signals under adversarial conditions.
+
+### Multimodal UAV Surveillance
+Real-time RGB + IR fusion system with high-performance detection and tracking.
+
+### Vision-Based Robotic Arm
+Industrial bin-picking system combining object detection and grasp planning.
+
+## 📊 Experience
+
+**Business Analyst — LSEG**  
+Worked on large-scale trade surveillance systems using Spark, Kafka, Airflow, and AWS.  
+Bridged product and engineering as a Product Owner.
+
+## 📢 Talks
+
+Invited Speaker — IEEE SSCS Tech Talk  
+"Less is More: The Power of Small Language Models"
+
+## ✍️ Writing
+
+I’ve written 100+ technical articles on ML, signal processing, and AI systems, focusing on intuitive explanations and system-level thinking.
+
+## 🌐 Connect
+
+LinkedIn:  
+GitHub:  
+Email: kdwa2404@gmail.com  
+
+---
+
+Building systems where signals meet intelligence.
