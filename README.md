@@ -64,23 +64,6 @@ Optimization & Scientific Computing
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-## 💼 Featured Projects
-
-### NEMESIS GNSS Simulator
-A full-scale GNSS signal simulator built in pure Python, capable of generating realistic satellite signals and structured spoofing scenarios for research.
-
-### GNSS Simulator (From Scratch)
-End-to-end implementation of a GNSS receiver pipeline including signal generation, tracking (DLL/PLL), pseudorange extraction, and positioning.
-
-### ML-Based GNSS Spoofing Detection
-Semantic embedding-based detection system trained directly on RF signals under adversarial conditions.
-
-### Multimodal UAV Surveillance
-Real-time RGB + IR fusion system with high-performance detection and tracking.
-
-### Vision-Based Robotic Arm
-Industrial bin-picking system combining object detection and grasp planning.
-
 ## 📊 Experience
 
 **Business Analyst — LSEG**  
@@ -89,17 +72,10 @@ Bridged product and engineering as a Product Owner.
 
 ## 📢 Talks
 
-Invited Speaker — IEEE SSCS Tech Talk  
+Invited Speaker - IEEE SSCS Tech Talk  
 "Less is More: The Power of Small Language Models"
 
-## ✍️ Writing
-
-I’ve written 100+ technical articles on ML, signal processing, and AI systems, focusing on intuitive explanations and system-level thinking.
-
 ## 🌐 Connect
-
-LinkedIn:  
-GitHub:  
 Email: kdwa2404@gmail.com  
 
 ---
