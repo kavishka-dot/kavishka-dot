@@ -1,6 +1,6 @@
 # Hi there, I'm Kavishka 👋
 
-I build machine learning systems for wireless signals, GNSS security, and scientific simulation.
+I work at the intersection of signal processing, representation learning, and machine learning.
 
 ## 🚀 About Me
 
