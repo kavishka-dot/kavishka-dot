@@ -13,28 +13,21 @@ I work heavily on **research-driven engineering**, building full-stack pipelines
 ## 🔬 Research
 
 - **NEMESIS: Neural Embeddings for GNSS Spoofing Detection**  
-  Accepted at IEEE ACES 2026  
+  Self-supervised representation learning framework operating on RF signals for robust GNSS spoofing detection. Accepted at IEEE ACES 2026.
 
 - **NEMESIS-Shield**  
-  Robust representation learning for GNSS integrity (IEEE VTC under review)
+  Learns resilient signal representations under adversarial conditions for GNSS integrity monitoring. Under review (IEEE VTC).
 
 - **NEMESIS-Nav**  
-  Detector-informed Kalman fusion for spoofing resilience (IEEE TVT under review)
+  Integrates learned spoofing detectors with adaptive Kalman filtering for robust navigation under attack. Under review (IEEE TVT).
 
 - **CrossJEPA**  
-  Cross-modal representation learning for 3D vision (CVPR under review)
+  Cross-modal joint-embedding predictive architecture for efficient 3D representation learning from 2D observations. Under review (CVPR).
 
 - **SpectraNet**  
-  FFT-assisted deepfake detection (arXiv)
+  FFT-assisted deep learning framework for deepfake face detection leveraging frequency-domain cues. arXiv.
 
-## 🧠 What I Work On
 
-Machine Learning  
-Signal Processing  
-GNSS / RF Systems  
-Self-Supervised Learning (JEPA)  
-Computer Vision  
-Optimization & Scientific Computing  
 
 ## 🛠️ Tech Stack
 
@@ -62,9 +55,23 @@ Optimization & Scientific Computing
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kavishka-dot&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-dot&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavishka-dot&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kavishka-dot&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ## 📊 Experience
 
-**Business Analyst — LSEG**  
+**Business Analyst: LSEG**  
 Worked on large-scale trade surveillance systems using Spark, Kafka, Airflow, and AWS.  
 Bridged product and engineering as a Product Owner.
 
