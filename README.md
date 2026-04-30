@@ -40,10 +40,29 @@ Optimization & Scientific Computing
 
 ## 🛠️ Tech Stack
 
-Python | C++ | MATLAB  
-PyTorch | TensorFlow | NumPy | SciPy  
-GNSS | SDR | Wavelets | FFT | IQ Signals  
-LaTeX | Git | Linux | Colab  
+### Core Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF6F00?style=flat-square&logo=Mathworks&logoColor=white)
+
+### Machine Learning & Scientific Computing
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+### Signal Processing & RF
+![GNSS](https://img.shields.io/badge/-GNSS-2E8B57?style=flat-square&logoColor=white)
+![SDR](https://img.shields.io/badge/-SDR-6A5ACD?style=flat-square&logoColor=white)
+![Wavelets](https://img.shields.io/badge/-Wavelets-8B008B?style=flat-square&logoColor=white)
+![FFT](https://img.shields.io/badge/-FFT-FF8C00?style=flat-square&logoColor=white)
+![IQ Signals](https://img.shields.io/badge/-IQ%20Signals-708090?style=flat-square&logoColor=white)
+
+### Tools & Workflow
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ## 💼 Featured Projects
 
