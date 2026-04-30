@@ -27,8 +27,6 @@ I work heavily on **research-driven engineering**, building full-stack pipelines
 - **SpectraNet**  
   FFT-assisted deepfake detection (arXiv)
 
-📄 Full details in CV → :contentReference[oaicite:0]{index=0}
-
 ## 🧠 What I Work On
 
 Machine Learning  
