@@ -67,6 +67,10 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kavishka-dot&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishka-dot&theme=radical)
+
 ## 📊 Experience
 
 **Business Analyst: LSEG**  
