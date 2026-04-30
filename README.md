@@ -6,9 +6,7 @@ I work at the intersection of signal processing, representation learning, and ma
 
 I am an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, working at the intersection of machine learning, signal processing, and RF systems.
 
-My core focus is on **GNSS spoofing detection, self-supervised learning, and signal-domain representation learning**, where I design systems that go from raw I/Q signals all the way to intelligent decision-making.
-
-I work heavily on **research-driven engineering**, building full-stack pipelines from theory → simulation → datasets → models.
+My current focus is on **GNSS spoofing detection, self-supervised learning, and signal-domain representation learning**, where I design systems that go from raw I/Q signals all the way to intelligent decision-making.
 
 ## 🔬 Research
 
