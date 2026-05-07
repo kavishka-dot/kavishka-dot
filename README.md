@@ -53,12 +53,6 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kavishka-dot&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-dot&layout=compact&theme=radical)
-
 ## 📊 Experience
 
 **Business Analyst: LSEG**  
