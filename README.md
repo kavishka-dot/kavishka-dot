@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kavishka-dot.kavishka-dot" />
+
 # Hi there, I'm Kavishka 👋
 
 I work at the intersection of signal processing, representation learning, and machine learning.
