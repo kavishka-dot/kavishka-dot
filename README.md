@@ -25,11 +25,6 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 - **SpectraNet**  
   FFT-assisted deep learning framework for deepfake face detection leveraging frequency-domain cues. arXiv.
 
-## 📊 GitHub Stats
-
-![kavishka-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavishka-dot&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-dot&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
 
