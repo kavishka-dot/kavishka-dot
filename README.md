@@ -42,7 +42,7 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
 ### Signal Processing & RF
-![GNSS](https://img.shields.io/badge/-GNSS-2E8B57?style=flat-square&logoColor=white)
+![GNSS](https://img.shields.io/badge/-GNSS-2E8B57?style=flat-square&logoColor=blue)
 ![SDR](https://img.shields.io/badge/-SDR-6A5ACD?style=flat-square&logoColor=white)
 ![Wavelets](https://img.shields.io/badge/-Wavelets-8B008B?style=flat-square&logoColor=white)
 ![FFT](https://img.shields.io/badge/-FFT-FF8C00?style=flat-square&logoColor=white)
