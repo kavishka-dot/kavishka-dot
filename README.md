@@ -16,7 +16,7 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
   Self-supervised representation learning framework operating on RF signals for robust GNSS spoofing detection. Accepted at IEEE ACES 2026.
 
 - **NEMESIS-Shield**  
-  Learns resilient signal representations under adversarial conditions for GNSS integrity monitoring. Under review (IEEE VTC).
+  Learns resilient signal representations under adversarial conditions for GNSS integrity monitoring. Accepted at IEEE VTC 2026.
 
 - **NEMESIS-Nav**  
   Integrates learned spoofing detectors with adaptive Kalman filtering for robust navigation under attack. Under review (IEEE TVT).
