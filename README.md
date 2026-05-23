@@ -22,7 +22,7 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
   Integrates learned spoofing detectors with adaptive Kalman filtering for robust navigation under attack. Under review (IEEE TVT).
 
 - **CrossJEPA**  
-  Cross-modal joint-embedding predictive architecture for efficient 3D representation learning from 2D observations. Under review (CVPR).
+  Cross-modal joint-embedding predictive architecture for efficient 3D representation learning from 2D observations. Under review (BMCV).
 
 - **SpectraNet**  
   FFT-assisted deep learning framework for deepfake face detection leveraging frequency-domain cues. arXiv.
