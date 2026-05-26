@@ -21,6 +21,8 @@ My current focus is on **GNSS spoofing detection, self-supervised learning, and 
 - **NEMESIS-Nav**  
   Integrates learned spoofing detectors with adaptive Kalman filtering for robust navigation under attack. Under review (IEEE TVT).
 
+- **Learning the GNSS Signal Manifold:** Flow Matching for Realistic Spoofing and Adversarial Hardening. Under review (IEEE TAES)
+
 - **CrossJEPA**  
   Cross-modal joint-embedding predictive architecture for efficient 3D representation learning from 2D observations. Under review (BMCV).
 
